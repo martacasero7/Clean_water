@@ -1,4 +1,4 @@
-Line ,Entity,Year,Access to improved drinking water,Access to unimproved drinking water,Access to limited drinking water,GDP,Population,Death Rate
+Line ,Entity,Year,Access to improved drinking water,Access to unimproved drinking water,Access to limited drinking water,GDP,Population,Death_Rate
 1,Afghanistan,2009,50.66,31.23,4.88,1758.904419,27385310,14.41
 2,Afghanistan,2019,74.35,16.04,1.91,2065.036133,37769496,6.62
 3,Albania,2009,96.95,2.78,6.01,10313.91602,2930553,0.18
